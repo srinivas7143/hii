@@ -19,3 +19,5 @@ iit jee https://drive.google.com/drive/folders/0B5m9nkbDEpfnQTlEY3JVbVI3dGs
 
 
 academic books https://discuss.freetutorials.eu/t/ebook-academic-ebooks/6319
+
+computer book https://drive.google.com/drive/folders/1YYLXMs2t60bJHj01lDdo0a6zu-e4Nlq7
