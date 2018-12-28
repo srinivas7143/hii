@@ -23,3 +23,5 @@ academic books https://discuss.freetutorials.eu/t/ebook-academic-ebooks/6319
 computer book https://drive.google.com/drive/folders/1YYLXMs2t60bJHj01lDdo0a6zu-e4Nlq7
 
 windows tricks https://healholistic.files.wordpress.com/2013/08/ebook-pdf-untold-windows-tips-and-secrets-ankit-fadia.pdf
+
+learn node https://mega.nz/#F!bH5gkYCD!xuGyum3Q3KlizGKM5anEig
