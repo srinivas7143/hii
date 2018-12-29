@@ -18,6 +18,11 @@ c https://mega.nz/fm/ripFSRAL
 iit jee https://drive.google.com/drive/folders/0B5m9nkbDEpfnQTlEY3JVbVI3dGs
 
 
+github https://drive.google.com/open?id=1H22Ul9z8Q0KLo-FRhAq-Y3NIi2MwILRE
+
+ar cloud guru https://drive.google.com/drive/folders/1Tw0GAPC-CF9M37Xe4Mq4yCPxvrmZm-RR
+
+
 academic books https://discuss.freetutorials.eu/t/ebook-academic-ebooks/6319
 
 computer book https://drive.google.com/drive/folders/1YYLXMs2t60bJHj01lDdo0a6zu-e4Nlq7
