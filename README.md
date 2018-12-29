@@ -30,3 +30,7 @@ computer book https://drive.google.com/drive/folders/1YYLXMs2t60bJHj01lDdo0a6zu-
 windows tricks https://healholistic.files.wordpress.com/2013/08/ebook-pdf-untold-windows-tips-and-secrets-ankit-fadia.pdf
 
 learn node https://mega.nz/#F!bH5gkYCD!xuGyum3Q3KlizGKM5anEig
+
+https://discuss.freetutorials.eu/t/get-wes-bos-react/10321/36
+
+http://www.cloudnloud.com/aws-amazon-public-cloud-interview-questions/
