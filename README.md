@@ -38,3 +38,5 @@ http://www.cloudnloud.com/aws-amazon-public-cloud-interview-questions/
 ethical hacking https://mega.nz/#!WYVGGLoR!phC4VLCR_qe8oRcb3Ul79dtPUYn9nxDjneczOZycAJs
 
 hacking https://mega.nz/#!0yQS1AhB!i51nogyhE08wNphhyylJb1rZmyGHH1-7BiETny0MsnA
+
+plural sight https://gist.github.com/jesperorb/c14aef85735c54f479896cfa6f16a1e5
