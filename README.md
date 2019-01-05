@@ -40,4 +40,7 @@ ethical hacking https://mega.nz/#!WYVGGLoR!phC4VLCR_qe8oRcb3Ul79dtPUYn9nxDjneczO
 hacking https://mega.nz/#!0yQS1AhB!i51nogyhE08wNphhyylJb1rZmyGHH1-7BiETny0MsnA
 
 plural sight https://gist.github.com/jesperorb/c14aef85735c54f479896cfa6f16a1e5
- code premium https://drive.google.com/drive/folders/1ocgA3DPZfw7gGmXPBGZDacju_Y48pv-h
+
+code premium https://drive.google.com/drive/folders/1ocgA3DPZfw7gGmXPBGZDacju_Y48pv-h
+
+ANGULAR https://drive.google.com/drive/folders/1SjjVavSTwmImKGefLwPZSC0yhKB0f4gU
