@@ -190,3 +190,275 @@ angular https://drive.google.com/drive/folders/1UkZPvXh7NenLtLOjFycNJtvxUuC5CQ4O
     "id": 10
 }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[
+{
+    "domain": ".hotstar.com",
+    "expirationDate": 1603712363,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "GA1.2.19261169.1540640226",
+    "id": 1
+},
+{
+    "domain": ".hotstar.com",
+    "expirationDate": 1572176251,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "ajs_anonymous_id",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "%227e1f8477-85c5-4338-a308-477255d93b66%22",
+    "id": 2
+},
+{
+    "domain": ".hotstar.com",
+    "expirationDate": 1589128753,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "ajs_group_id",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "null",
+    "id": 3
+},
+{
+    "domain": ".hotstar.com",
+    "expirationDate": 1589128753,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "ajs_user_id",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "%2222b94667-0a53-4f1d-847e-56726c52c14a%22",
+    "id": 4
+},
+{
+    "domain": ".hotstar.com",
+    "expirationDate": 3112329054,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "device_id",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "c99ec579-b0a6-4460-bfdb-0dfeb945d4ab",
+    "id": 5
+},
+{
+    "domain": ".hotstar.com",
+    "expirationDate": 1572176363,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "mp_2db74d7ac94b0e2cd6e49b34b48b04a0_mixpanel",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "%7B%22distinct_id%22%3A%20%2222b94667-0a53-4f1d-847e-56726c52c14a%22%2C%22%24device_id%22%3A%20%22166b55037a11d2-062a619ecc3cce-52235773-49a10-166b55037a22aa%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22%24user_id%22%3A%20%2222b94667-0a53-4f1d-847e-56726c52c14a%22%2C%22web_app_version%22%3A%20%225.0.96.1%22%2C%22platform%22%3A%20%22mweb%22%2C%22subscription_status%22%3A%20%22Cancelled%22%2C%22p_id%22%3A%20%2222b94667-0a53-4f1d-847e-56726c52c14a%22%2C%22h_id%22%3A%20%22acn%7Cjalaj.bvb%40gmail.com%22%2C%22logged_in_status%22%3A%20true%2C%22cookie_id%22%3A%20%22e5a65a79-9a32-4d76-b2f9-4e71af5187c5%22%2C%22device_id%22%3A%20%22e5a65a79-9a32-4d76-b2f9-4e71af5187c5%22%2C%22plan_type%22%3A%20%22Premium%22%2C%22utm_source_last_touch%22%3A%20%22%22%2C%22utm_medium_last_touch%22%3A%20%22%22%2C%22utm_campaign_last_touch%22%3A%20%22%22%2C%22utm_term_last_touch%22%3A%20%22%22%2C%22utm_content_last_touch%22%3A%20%22%22%2C%22country%22%3A%20%22IN%22%2C%22state%22%3A%20%22MH%22%2C%22city%22%3A%20%22MUMBAI%22%2C%22lat%22%3A%20%2218.98%22%2C%22long%22%3A%20%2272.83%22%2C%22utm_source_first_touch%22%3A%20%22%22%2C%22utm_medium_first_touch%22%3A%20%22%22%2C%22utm_campaign_first_touch%22%3A%20%22%22%2C%22utm_term_first_touch%22%3A%20%22%22%2C%22utm_content_first_touch%22%3A%20%22%22%2C%22login_method%22%3A%20%22Email%22%2C%22email%22%3A%20%22jalaj.bvb%40gmail.com%22%2C%22gender%22%3A%20%22%22%7D",
+    "id": 6
+},
+{
+    "domain": ".hotstar.com",
+    "expirationDate": 1856000351,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "WZRK_G",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "4bdfd5aaa4704afbbd41512e5771c6e6",
+    "id": 7
+},
+{
+    "domain": "www.hotstar.com",
+    "expirationDate": 4696313815,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "device_id",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "e5a65a79-9a32-4d76-b2f9-4e71af5187c5",
+    "id": 8
+},
+{
+    "domain": "www.hotstar.com",
+    "expirationDate": 4696313851,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "facebookCookie",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "{}",
+    "id": 9
+},
+{
+    "domain": "www.hotstar.com",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "geo",
+    "path": "/tv/game-of-thrones/s-510/cripples-bastards-and-broken-things",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "IN,TG,HYDERABAD,17.38,78.47,18209",
+    "id": 10
+},
+{
+    "domain": "www.hotstar.com",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "geo",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "IN,TG,HYDERABAD,17.38,78.47,18209",
+    "id": 11
+},
+{
+    "domain": "www.hotstar.com",
+    "expirationDate": 1585564070,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "gr_reco",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "166b5501bd9-3da4ae923fb3e60d",
+    "id": 12
+},
+{
+    "domain": "www.hotstar.com",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "gr_rt",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "c99ec579-b0a6-4460-bfdb-0dfeb945d4ab",
+    "id": 13
+},
+{
+    "domain": "www.hotstar.com",
+    "expirationDate": 4696313818,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "guest_pid",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "bf445cec-4574-4aeb-9db7-a924e3fa5138",
+    "id": 14
+},
+{
+    "domain": "www.hotstar.com",
+    "expirationDate": 4696313851,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "registered_pid",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "22b94667-0a53-4f1d-847e-56726c52c14a",
+    "id": 15
+},
+{
+    "domain": "www.hotstar.com",
+    "expirationDate": 1589128767,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "stv_hotcookie",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "c99ec579-b0a6-4460-bfdb-0dfeb945d4ab",
+    "id": 16
+},
+{
+    "domain": "www.hotstar.com",
+    "expirationDate": 4712751283,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "userMemberCoockieObj",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "{\"userMemberEmail\":\"jalaj.bvb@gmail.com\",\"userMemberState\":\"SC\",\"userMemberName\":\"JALAJ KUMAR\",\"fbId\":\"\",\"crmAccountId\":\"acn|jalaj.bvb@gmail.com\",\"DOB\":\"\",\"gender\":\"\",\"loginMethod\":\"email\",\"subscriptions\":{\"in\":{\"HotstarPremium\":{\"showAds\":\"0\",\"expiry\":\"2020-03-09T14:35:15.000Z\",\"status\":\"C\"},\"SportsPack\":{\"showAds\":\"1\",\"expiry\":\"2999-01-01T01:00:00.000Z\",\"status\":\"S\"}}},\"pId\":\"22b94667-0a53-4f1d-847e-56726c52c14a\",\"hId\":\"acn|jalaj.bvb@gmail.com\",\"deviceId\":\"c99ec579-b0a6-4460-bfdb-0dfeb945d4ab\",\"version\":\"v2\",\"phoneNumber\":\"\"}",
+    "id": 17
+},
+{
+    "domain": "www.hotstar.com",
+    "expirationDate": 4712751283,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "userMemberHID",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ7XCJoSWRcIjpcImFjbnxqYWxhai5idmJAZ21haWwuY29tXCIsXCJwSWRcIjpcIjIyYjk0NjY3LTBhNTMtNGYxZC04NDdlLTU2NzI2YzUyYzE0YVwiLFwibmFtZVwiOlwiSkFMQUogS1VNQVJcIixcImVtYWlsXCI6XCJqYWxhai5idmJAZ21haWwuY29tXCIsXCJpcFwiOlwiMTI0LjEyMy40OS41N1wiLFwiY291bnRyeUNvZGVcIjpcImluXCIsXCJjdXN0b21lclR5cGVcIjpcIm51XCIsXCJ0eXBlXCI6XCJlbWFpbFwiLFwiaXNFbWFpbFZlcmlmaWVkXCI6ZmFsc2UsXCJpc1Bob25lVmVyaWZpZWRcIjpmYWxzZSxcImRldmljZUlkXCI6XCJjOTllYzU3OS1iMGE2LTQ0NjAtYmZkYi0wZGZlYjk0NWQ0YWJcIixcInZlcnNpb25cIjpcInYyXCIsXCJzdWJzY3JpcHRpb25zXCI6e1wiaW5cIjp7XCJIb3RzdGFyUHJlbWl1bVwiOntcInNob3dBZHNcIjpcIjBcIixcImV4cGlyeVwiOlwiMjAyMC0wMy0wOVQxNDozNToxNS4wMDBaXCIsXCJzdGF0dXNcIjpcIkNcIn0sXCJTcG9ydHNQYWNrXCI6e1wic2hvd0Fkc1wiOlwiMVwiLFwiZXhwaXJ5XCI6XCIyOTk5LTAxLTAxVDAxOjAwOjAwLjAwMFpcIixcInN0YXR1c1wiOlwiU1wifX19fSIsImlzcyI6IlVNIiwiZXhwIjoxNTU3NjgyNDgzfQ.V3_hAKD2zX0JFhrEGXTYFHBmbwGbDa59rjYG1u-Y7Y4",
+    "id": 18
+}
+]
